@@ -49,29 +49,49 @@
 
 ---
 
-## 📸 Screenshots
+# 📍 Location Explorer
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x600?text=Map+View" width="250" alt="Map View"/>
-        <br/>
-        <b>🗺️ Map View</b>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x600?text=Location+Card" width="250" alt="Location Card"/>
-        <br/>
-        <b>📍 Location Card</b>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x600?text=Loading+Screen" width="250" alt="Loading Screen"/>
-        <br/>
-        <b>⏳ Loading Screen</b>
-      </td>
-    </tr>
-  </table>
+
+**Live GPS tracking with map layers and precision indicator**
+
+[![Expo Version](https://img.shields.io/badge/Expo-SDK%2050-blue)]()
+[![React Native](https://img.shields.io/badge/React%20Native-0.73.6-blue)]()
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey)]()
+[![License](https://img.shields.io/badge/license-MIT-green)]()
+
 </div>
+
+---
+
+## 📱 Screenshots
+
+<div align="center">
+
+### 1. Main Screen
+
+<img src="screenshots/1.jpg" width="280" alt="Main Screen"/>
+
+*Location Explorer Main Interface*
+
+---
+
+### 2. Map View
+
+<img src="screenshots/2.jpg" width="280" alt="Map View"/>
+
+*Real-time GPS tracking on map*
+
+---
+
+### 3. Location Panel
+
+<img src="screenshots/3.jpg" width="280" alt="Location Panel"/>
+
+*Live coordinates and accuracy display*
+
+</div>
+
 
 ---
 
